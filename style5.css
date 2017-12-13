@@ -1,0 +1,114 @@
+@import 'https://fonts.googleapis.com/css?family=oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+  background-image: url(http://ksassets.timeincuk.net/wp/uploads/sites/54/2017/03/ipad-pro-8-1.jpg);
+  background-repeat: no-repeat:
+  background-align: center;
+  background-size: cover;
+  margin: 0;
+}
+
+header {
+    background: gray;
+    color: white;
+    padding: 0px 0px 45px 50px
+}
+
+header h1 {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+nav ul {
+    display: inline;
+    padding: 0px;
+    float: left;
+}
+
+nav ul li {
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    list-style-type: name;
+    color: white;
+    float: left;
+    margin-left: 75px
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.homeblack:hover {
+  background-color: lightgray;
+  padding: 30px 10px 10px 10px;
+}
+
+#nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    padding: 75px 0px 0px 0px;
+    text-align: right;
+    margin-right: 6%;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    text-align: right;
+    margin-right: 9%;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    text-align: right;
+    margin-right: 3%;
+    margin-left: 74%
+}
+
+.content {
+    max-width: 500px;
+    margin: 10;
+    margin-left: 56%;
+    text-align: right;
+}
+
+.btn {
+    border-radius: 9px;
+    font-family: 'Oswald', sans-serif;
+    color: #222222;
+    font-size: 150%;
+    padding: 10px 20px;
+    border: solid #1E90FF 3px;
+    text-decoration: none; 
+}
+
+.btn:hover {
+    color: #FFF;
+    border: solid #FFF 3px;
+}
+
+
+
+
+
+
+
+
+
+

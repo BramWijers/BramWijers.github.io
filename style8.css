@@ -1,0 +1,126 @@
+@import 'https://fonts.googleapis.com/css?family=oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: #F2F2F2;
+}
+
+header {
+    background: gray;
+    color: white;
+    padding: 0px 0px 45px 50px
+}
+
+header h1 {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    color: white;
+}
+
+nav ul {
+    display: inline;
+    padding: 0px;
+    float: left;
+}
+
+nav ul li {
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    list-style-type: name;
+    color: white;
+    float: left;
+    margin-left: 75px
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.homeblack:hover {
+  background-color: lightgray;
+  padding: 30px 10px 10px 10px;
+}
+
+#nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    padding: 0px;
+    color: #222222;
+    margin-left: 14%;
+    margin-right: 66%;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 150%;
+    line-height: 160%;
+    margin-right: 0%;
+    margin-left: 2%;
+    padding: 10px;
+}
+
+img {
+    float: right;
+    margin: 0px 0px 15px 20px;
+}
+
+header1 {
+    background: #000a1a;
+    color: white;
+    padding: 0px 0px 79px 1500px
+}
+
+.btn {
+    border-radius: 9px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 130%;
+    padding: 10px 20px;
+    border: solid #FFFFFF 3px;
+    text-decoration: none;
+    margin-left: 0.5%;
+    margin-right: 70%;
+}
+
+.btn:hover {
+    color: white;
+    border: solid #000a1a 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

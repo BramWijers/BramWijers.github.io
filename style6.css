@@ -1,0 +1,137 @@
+@import 'https://fonts.googleapis.com/css?family=oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: #222222;
+}
+
+header {
+    background: gray;
+    color: white;
+    padding: 0px 0px 45px 50px
+}
+
+header h1 {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    color: white;
+}
+
+nav ul {
+    display: inline;
+    padding: 0px;
+    float: left;
+}
+
+nav ul li {
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    list-style-type: name;
+    color: white;
+    float: left;
+    margin-left: 75px
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.homeblack:hover {
+  background-color: lightgray;
+  padding: 30px 10px 10px 10px;
+}
+
+#nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+h {
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    padding: 0px 0px 0px 0px;
+    color: white;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    padding: 0px 0px 0px 0px;
+    color: gray;
+}
+
+p1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    padding: 0px 0px 0px 0px;
+    color: white;
+}
+
+header1 {
+    background: #FFFFFF;
+    color: white;
+    padding: 0px 0px 2400px 1500px
+}
+
+p2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+p3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    padding: 0px 0px 0px 0px;
+    color: gray;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+p4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+}
+
+
+
+
+
+
+
+

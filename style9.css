@@ -1,0 +1,112 @@
+@import 'https://fonts.googleapis.com/css?family=oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body { 
+    background-image: url('applemusic.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-color: #000000;
+    background-attachment: fixed;
+}
+
+header {
+    background: gray;
+    color: white;
+    padding: 0px 0px 45px 50px
+}
+
+header h1 {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+nav ul {
+    display: inline;
+    padding: 0px;
+    float: left;
+}
+
+nav ul li {
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    list-style-type: name;
+    color: white;
+    float: left;
+    margin-left: 75px
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.homeblack:hover {
+  background-color: lightgray;
+  padding: 30px 10px 10px 10px;
+}
+
+#nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 27px;
+    line-height: 140%;
+    color: #ffffff;
+    padding: 0px 0px 0px 0px;
+    margin-right: 70%;
+    margin-left: 2%;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    padding: 15px;
+    color: #ffffff;
+    margin-right: 70%;
+    margin-left: 1%;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    padding: 15px;
+    color: #FFFFFF;
+    margin-right: 70%;
+    margin-left: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

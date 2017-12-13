@@ -1,0 +1,160 @@
+@import 'https://fonts.googleapis.com/css?family=oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: #F2F2F2;
+}
+
+header {
+    background: gray;
+    color: white;
+    padding: 0px 0px 45px 50px
+}
+
+header h1 {
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    color: white;
+}
+
+nav ul {
+    display: inline;
+    padding: 0px;
+    float: left;
+}
+
+nav ul li {
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    list-style-type: name;
+    color: white;
+    float: left;
+    margin-left: 75px
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.homeblack:hover {
+  background-color: lightgray;
+  padding: 30px 10px 10px 10px;
+}
+
+#nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+}
+
+div {
+    border: 2px solid #222222;
+    border-radius: 12px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 0px 0px 0px 0px;
+}
+
+header1 {
+    background: linear-gradient(#f2f2f2, #e6e6e6, #d9d9d9, #cccccc, #bfbfbf);
+    padding: 0px 0px 890px 1500px
+}
+
+
+p1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 33px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+    text-align: right;
+}
+
+header2 {
+    background: linear-gradient(#bfbfbf, #b3b3b3, #a6a6a6, #999999, #8c8c8c, #808080, #737373);
+    padding: 0px 0px 1315px 1500px
+}
+
+header3 {
+    background: #d9ff66;
+    padding: 0px 0px 100px 1500px
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    padding: 0px 0px 0px 0px;
+    color: #222222;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+p2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding: 0px 0px 0px 0px;
+    color: #ffffff;
+    text-align: right;
+}
+
+header4 {
+    background: linear-gradient(#737373, #666666, #595959, #4d4d4d, #404040, #333333, #262626);
+    padding: 0px 0px 1050px 1500px
+}
+
+p3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    padding: 0px 0px 0px 0px;
+    color: #ffffff;
+    text-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
