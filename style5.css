@@ -96,6 +96,8 @@ p {
     padding: 10px 20px;
     border: solid #1E90FF 3px;
     text-decoration: none; 
+    margin-right: 70px;
+    margin-left: 5px;
 }
 
 .btn:hover {
