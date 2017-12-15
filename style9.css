@@ -15,6 +15,7 @@ body {
     background-image: url('applemusic.jpg');
     background-repeat: no-repeat;
     width: 100%;
+    hight: 100%;
     background-position: center;
     background-color: #000000;
     background-attachment: fixed;
