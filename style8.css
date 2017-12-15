@@ -105,7 +105,9 @@ header1 {
     border: solid #000a1a 3px;
 }
 
-
+.main {
+    text-align: center;
+}
 
 
 
